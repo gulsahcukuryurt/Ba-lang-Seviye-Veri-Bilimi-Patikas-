@@ -1,1 +1,1 @@
-# Ba-lang-Seviye-Veri-Bilimi-Patikas-
+# Baslangic-Seviye-Veri-Bilimi-Patikasi-
